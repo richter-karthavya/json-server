@@ -1,6 +1,6 @@
-Steps to create a fake json-server using github
+## Steps to create a fake json-server using github
 
-step 1:- create a db.json file with following structure and upload to github
+# step 1:- create a db.json file with following structure and upload to github
 
 {
     "posts": [
